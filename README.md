@@ -1,2 +1,5 @@
-# Valuation-of-technology-companies
-Proposes a methodology for valuation of technology companies.
+# Valuation-of-technology-companies.
+
+The goal of this paper is to analyze and discuss the valuation of technology  companies. Valuating tech companies is a challenge given the lack of tangible  assets like in traditional manufacturing companies and many uncertain factors  about the future. This paper presents a methodology for the valuation of tech  companies & early stage start-ups that we have proven in practice. The risk  linked to a tech company is expressed through an individual beta coefficient as  important component of the discounting factor within a discounted cash flow (DCF) valuation based on the historical data.
+
+Two valuation methodology has been applied to a single company to observe the variations, which provided an  easy-to-handle and comprehensible comparison of different valuation for early  stage investors. The results show the variations in the final value of the company  based on the assumptions taken in the calculation & valuation is more of an art  rather than science where the valuation is justified by the strength of the  reasoning behind the assumptions.
